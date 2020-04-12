@@ -1,1 +1,2 @@
 # projectNews
+# animeList
